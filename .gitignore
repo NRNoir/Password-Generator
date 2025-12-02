@@ -1,0 +1,12 @@
+# Fichiers compilés
+bin/
+obj/
+
+# Config Visual Studio
+*.user
+*.suo
+.vs/
+
+# Fichiers temporaires
+*.log
+*.tmp
